@@ -33,11 +33,11 @@
 - **_markdown_**
 - **_cheat sheet_**
 
-Açık Kaynağa katkı sağlamak konusunda yeni olanlar için kaynak listesi
+Açık kaynağa katkı sağlamak konusunda yeni olanlar için kaynak listesi.
 
 İlave olarak kaynak bulursanız lütfen pull request atarak katkı sağlayın. 
 
-Eğer bir sorunuz veya yorumunuz varsa lütfen issue oluşturun.
+Eğer bir sorunuz veya yorumunuz varsa lütfen "issue" oluşturun.
 
 **İçerikler**
 
@@ -66,10 +66,10 @@ Simülasyon prosine kod katkısı sağlayarak GitHub dinamiklerini öğren
 - [Öğrenciler için A'dan Z'ye Kaynaklar](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Öğrenciler için yeni bir kodlama dilini öğrenirlerken kullanabilecekleri kaynak listesi
 - [İlk Açık Kaynak projene katkı sağlarken: Pratik Bir Bakış Açısı](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - İlk Açık Kaynak projene katkı sağlarken adım adım bakış açısı   
 - [Abati Adewale](https://www.acekyd.com).
-- [Pull Request Ruleti](http://www.pullrequestroulette.com/) - Açık Kaynak Projelere ait gözden geçirilmesi için gönderilmiş pull requestler. 
+- [Pull Request Ruleti](http://www.pullrequestroulette.com/) - Açık Kaynak projelere ait gözden geçirilmesi için gönderilmiş pull requestler. 
 - ["GitHub'daki açık kaynak projelere nasıl katkı sağlanır." Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - "GitHub'daki açık kaynak projelere adım adım nasıl katkı sağlanır?" ile ilgili videolar.
 
-## Direkt GitHub arama sonuçarı
+## Direkt GitHub arama sonuçları
 Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağlantıları 
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
@@ -83,11 +83,11 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - İyi bir başlangıç olarak tanımlanmış bug'lar 
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Üzerinde çalışırken sıkıştığında sohbet aracılığı ile yardım alabileceğin, mentörler tarafından atanmış bug'lar
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Bugzilla üzerinden bug bulabileceğiniz websitesi.
-- [Firefox DevTools](http://firefox-dev.tools/) - Firefox Tarayıcı içerisinde bug bulabileceğiniz ve inceleyebileceğiniz araçlar 
+- [Firefox DevTools](http://firefox-dev.tools/) - Firefox tarayıcı içerisinde bug bulabileceğiniz ve inceleyebileceğiniz araçlar 
 - [Mozilla İçin Ne Yapabilirim?](http://whatcanidoformozilla.org/) - Sorulara cevap vererek ilgi alanına ve kabiliyetlerine uygun neyin üzerinde çalışabilirsin öğren. 
-- [Start Mozilla](https://twitter.com/StartMozilla) - Mozilla ekosisteminde yeni olan katkı sağlayıcıları için twitler atan twitter hesabı 
+- [Start Mozilla](https://twitter.com/StartMozilla) - Mozilla ekosisteminde yeni olan katkı sağlayıcıları için tweetler atan Twitter hesabı 
 
-## Yeni Open Source Katkı Sağlayıcıları için faydalı makaleler 
+## Yeni Açık Kaynak Katkı Sağlayıcıları için faydalı makaleler 
 - [İlk Açık Kaynak Projenizi nasıl seçersiniz?](https://github.com/collections/choosing-projects) yazan [@GitHub](https://github.com/github)
 - [Düzeltmek için ilk Açık Kaynak Bug'ınızı nasıl bulursunuz?](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) yazan [@Shubheksha](https://github.com/Shubheksha)
 - [İlk Defa Açık Kaynağa başlayacaklar için](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
@@ -106,15 +106,15 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 ## Versiyon Kontrol Kullanmak
 - [Git Gibi Düşünmek](http://think-like-a-git.net/) - İleri Seviye Yeni Başlayan olup bazı noktalarda zorlananlar için güvenli bir deneyim sağlamaları için basit stratejiler veren Git Tanıtımı
 - [Git'i Dene](https://try.github.io/) - Ücretsiz olarak tarayıcın üzerinde 15 dakikada Git Öğren
-- [Her Gün "Git"](https://git-scm.com/docs/giteveryday) - Her Gün ihtiyaç duyabileceğiniz kullanışlı komutlar
+- [Her Gün "Git"](https://git-scm.com/docs/giteveryday) - Her gün ihtiyaç duyabileceğiniz kullanışlı komutlar
 - [Oh shit, git!](http://ohshitgit.com/) - Düz bir ingilizce ile anlatılmış "Git kullanırken yapılan ortak hatalardan nasıl kaçınırsın" kılavuzu
 - [Atlassian'ın Git Dersleri](https://www.atlassian.com/git/tutorials/) - Çeşitli git kullanma kılavuzları.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [freeCodeCamp ın Viki Git Kaynakları](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [freeCodeCamp ın Viki Git Kaynakları](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [GitHub Akışı](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Pull Request nasıl yapılır hakkında bir Github Konuşması
 - [GitHub Öğrenme Kaynakları](https://help.github.com/articles/git-and-github-learning-resources/) - Git ve GitHub öğrenme kaynakları.
 - [Pro Git](https://git-scm.com/book/en/v2) - Scott Chacon ve Ben Straub tarafından yazılmış, ApressThe tarafından paylaşılmış "Pro Git book" kitabının tamamı.
-- [Git-it](https://github.com/jlord/git-it-electron) - Adım Adım Desktopta kullanabileceğiniz Git dersleri
+- [Git-it](https://github.com/jlord/git-it-electron) - Adım Adım Masaüstünde kullanabileceğiniz Git dersleri
 - [Git için Uçuş Kuralları](https://github.com/k88hudson/git-flight-rules) - İşler sarpa sardığında ne yapılması gerektiği ile ilgili kılavuz.
 - [Git and GitHub hakkında kapsamlı bir tanıtım](https://codeburst.io/git-good-part-a-e0d826286a2a) - Madhav Bahl tarafından yazılmış ki git ve GitHub'da yeniyseniz mutlaka görmelisiniz, Git Versiyon Kontrolünü detaylı olarak anlatan bir tanıtım.
 - [Başlangıç Seviyesi için İspanyolca Git Kılavuzu](https://platzi.github.io/git-slides/#/)git ve GitHub hakkında İspanyolca açıklanmış eksiksiz kılavuz slaytı. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
@@ -129,9 +129,9 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 ## Açık Kaynağa Katkı Sağlama Girişimleri
 - [Up For Grabs](http://up-for-grabs.net/#/) - Başlangıç seviyesi dostu issue'lar ile beraber projeleri içerir
 - [Yalnızca İlk Defa Başlayanlar İçin](http://www.firsttimersonly.com/) - "first-timers-only" olarak etkiketlenmiş bug listesi
-- [İlk Katkılar](https://firstcontributions.github.io/) - 5 dakika içerisinde ilk Açık Kaynak Katkını yap. Katkı Yapmaya başlamak için yardım eden araç ve ders 
+- [İlk Katkılar](https://firstcontributions.github.io/) - 5 dakika içerisinde ilk Açık Kaynak Katkını yap. Katkı yapmaya başlamak için yardım eden araç ve ders 
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Açık Kaynağa Katkı sağlamayı teşvik eden bir program. Ay bazında en az 5 pull request yaparak t-shirt ve sticker gibi hediyeler kazan.
 - [24 Pull Requests](https://24pullrequests.com) - Aralık ayı boyunca Açık Kaynak işbirliğini destekleyen proje. 
 
-## License
+## Lisans
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Lisans türü: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

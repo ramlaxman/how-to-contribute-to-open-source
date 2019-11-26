@@ -16,10 +16,10 @@ before contributing.
     - [VOC](https://github.com/beeware/voc) (project)
         - Issue labels:
             - [first-timers-only](https://github.com/beeware/voc/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
-- [Casualdate](https://github.com/StellarDoor5319/casualdate) (project)
-    - [Contributing Guide](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
-    - Issue labels:
-        - [good first contribution](https://github.com/StellarDoor5319/casualdate/labels/good%20first%20contribution)
+- [DITA Open Toolkit](https://www.dita-ot.org/)
+    - [Contributing Guide](https://www.dita-ot.org/contributing)
+    - Issue label:
+        - [good first issue](https://github.com/dita-ot/dita-ot/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - [Docker](https://github.com/docker) (project)
     - [Contributing Guide](https://docs.docker.com/opensource/)
     - Issue labels:
@@ -109,3 +109,5 @@ before contributing.
     - [Contributing Guide](https://github.com/test-kitchen/test-kitchen/blob/master/CONTRIBUTING.md)
     - Issue labels:
        - [*](https://github.com/test-kitchen/test-kitchen/issues?q=is%3Aopen+is%3Aissue+label%3A%E2%AD%90%EF%B8%8F)
+- Django (Framework)
+    - [Contributing Guide](https://github.com/django/django)

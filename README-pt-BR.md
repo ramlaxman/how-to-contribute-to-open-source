@@ -28,14 +28,14 @@ Se você sabe de algum recurso extra que não esteja listado aqui, por favor env
 Se você possui alguma dúvida ou comentário, por favor crie uma issue.
 
 **Conteúdo**
-- [Contribuindo com Open Source](#contributing-to-open-source-in-general)
-- [Pesquisas diretas no GitHub](#direct-github-searches)
-- [Ambiente de contribuidores da Mozilla](#mozillas-contributor-ecosystem)
-- [Artigos úteis para novos contribuidores Open Source](#useful-articles-for-new-open-source-contributors)
-- [Usando ferramentas de Controle de Versões](#using-version-control)
-- [Livros sobre Open Source](#open-source-books)
-- [Iniciativas para contribuição em Open Source](#open-source-contribution-initiatives)
-- [Licença](#license)
+- [Contribuindo com Open Source](#contribuindo-com-open-source)
+- [Pesquisas diretas no GitHub](#pesquisas-diretas-no-github)
+- [Ambiente de contribuidores da Mozilla](#ambiente-de-contribuidores-da-mozilla)
+- [Artigos úteis para novos contribuidores Open Source](#artigos-úteis-para-novos-contribuidores)
+- [Usando ferramentas de Controle de Versões](#usando-ferramentas-de-controle-de-versões)
+- [Livros sobre Open Source](#livros-sobre-open-source)
+- [Iniciativas para contribuição em Open Source](#iniciativas-para-contribuição-em-open-source)
+- [Licença](#licença)
 
 ## Contribuindo com Open Source
 - [O Guia Definitivo para Contribuições Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
@@ -65,7 +65,7 @@ Pesquise por links diretos para issues no GitHub.
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Ambiente de Contribuidores da Mozilla
-- [Primeiros Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - Bugs que desenvolvedores indentificaram como ótima introdução ao projeto.
+- [Primeiros Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - Bugs que desenvolvedores identificaram como ótima introdução ao projeto.
 - [Mentoria de Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Bugs que possuem um mentor disponível para te ajudar caso você encontre dificuldades enquanto trabalha em uma solução.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Um site dedicado a encontrar bugs no Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - Um site dedicado a bugs reportados para o DevTools no navegador Firefox.
@@ -95,7 +95,7 @@ Pesquise por links diretos para issues no GitHub.
 - [Oh shit, git!](http://ohshitgit.com/) - Como consertar erros comuns em git.
 - [Tutoriais de Git da Atlassian](https://www.atlassian.com/git/tutorials/) - Vários tutoriais sobre como usar `git`.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [Recursos sobre Git por freeCodeCamp](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [Recursos sobre Git por freeCodeCamp](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Talk sobre como criar Pull Requests.
 - [Recursos de Aprendizagem de Git e GitHub](https://help.github.com/articles/git-and-github-learning-resources/)
 - [Pro Git](https://git-scm.com/book/en/v2) - Livro completo Pro Git, escrito por Scott Chacon e Ben Straub e publicado pela Apress.
